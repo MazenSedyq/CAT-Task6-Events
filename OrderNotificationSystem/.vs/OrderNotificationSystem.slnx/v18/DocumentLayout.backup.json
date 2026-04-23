@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B621A8AE-5BF2-4626-88EE-274876B13A71}|OrderNotificationSystem\\OrderNotificationSystem.csproj|c:\\users\\eng_mazen\\downloads\\my-github\\cat-task6-events\\ordernotificationsystem\\ordernotificationsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621A8AE-5BF2-4626-88EE-274876B13A71}|OrderNotificationSystem\\OrderNotificationSystem.csproj|solutionrelative:ordernotificationsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621A8AE-5BF2-4626-88EE-274876B13A71}|OrderNotificationSystem\\OrderNotificationSystem.csproj|c:\\users\\eng_mazen\\downloads\\my-github\\cat-task6-events\\ordernotificationsystem\\ordernotificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621A8AE-5BF2-4626-88EE-274876B13A71}|OrderNotificationSystem\\OrderNotificationSystem.csproj|solutionrelative:ordernotificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621A8AE-5BF2-4626-88EE-274876B13A71}|OrderNotificationSystem\\OrderNotificationSystem.csproj|c:\\users\\eng_mazen\\downloads\\my-github\\cat-task6-events\\ordernotificationsystem\\ordernotificationsystem\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621A8AE-5BF2-4626-88EE-274876B13A71}|OrderNotificationSystem\\OrderNotificationSystem.csproj|solutionrelative:ordernotificationsystem\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 413,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\OrderNotificationSystem\\Order.cs",
+              "RelativeDocumentMoniker": "OrderNotificationSystem\\Order.cs",
+              "ToolTip": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\OrderNotificationSystem\\Order.cs*",
+              "RelativeToolTip": "OrderNotificationSystem\\Order.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:25:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\OrderNotificationSystem\\EmailService.cs",
+              "RelativeDocumentMoniker": "OrderNotificationSystem\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\OrderNotificationSystem\\EmailService.cs",
+              "RelativeToolTip": "OrderNotificationSystem\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:39:25.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\OrderNotificationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OrderNotificationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ENG_MAZEN\\Downloads\\My-Github\\CAT-Task6-Events\\OrderNotificationSystem\\OrderNotificationSystem\\Program.cs",
+              "RelativeToolTip": "OrderNotificationSystem\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAlwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:28:56.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

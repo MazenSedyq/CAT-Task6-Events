@@ -1,0 +1,15 @@
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\bin\Debug\net10.0\OrderNotificationSystem.exe
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\bin\Debug\net10.0\OrderNotificationSystem.deps.json
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\bin\Debug\net10.0\OrderNotificationSystem.runtimeconfig.json
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\bin\Debug\net10.0\OrderNotificationSystem.dll
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\bin\Debug\net10.0\OrderNotificationSystem.pdb
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.AssemblyInfoInputs.cache
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.AssemblyInfo.cs
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.sourcelink.json
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.dll
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\refint\OrderNotificationSystem.dll
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.pdb
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\OrderNotificationSystem.genruntimeconfig.cache
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task6-Events\OrderNotificationSystem\OrderNotificationSystem\obj\Debug\net10.0\ref\OrderNotificationSystem.dll

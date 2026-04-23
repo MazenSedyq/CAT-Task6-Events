@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace OrderNotificationSystem
+{
+    public class Order
+    {
+        private static int id = 0;
+        public int ID { get; }
+        public string CustomerName { get; set; }
+        public string ProductName { get; set; }
+        public decimal Price { get; set; }
+
+        public Order(string customerName, string productName, decimal price)
+        {
+            this.ID = id + 1;
+            this.CustomerName = customerName;
+            this.ProductName = productName;
+            this.Price = price;
+        }
+    }
+
+    public static class OrderExtensions
+    {
+        public static string FormatMessage(this Order order)
+        {
+
+            return $"Order #{order.ID} | Customer: {order.CustomerName} | Price: ${order.Price:C}";
+        }
+
+
+        
+    }
+}
